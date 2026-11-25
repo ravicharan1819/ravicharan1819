@@ -123,4 +123,93 @@ I enjoy working with data, developing machine learning models, and exploring mod
 
 ### 5. 📉 Customer Churn Risk Assessment
 
-**Python
+**Python | Pandas | Scikit-learn | EDA | SVM | Streamlit**
+
+- Built a customer churn prediction model using data preprocessing, EDA, and feature engineering.
+- Compared multiple classification models.
+- Achieved **94% accuracy using SVM**.
+- Deployed the model using Streamlit for interactive customer risk assessment and real-time predictions.
+
+### 6. ✍️ Next Word Prediction Using LSTM
+
+**Python | TensorFlow | Keras | NLP | LSTM**
+
+- Developed an LSTM-based NLP model to predict the next word in a text sequence.
+- Implemented text preprocessing, tokenization, sequence generation, padding, and vocabulary creation.
+- Integrated Embedding and LSTM layers with a Softmax output layer to predict subsequent words.
+
+### 7. 📑 Resume Analyzer ATS
+
+**Python | NLP | Machine Learning**
+
+- Developed an automated resume analysis project focused on applicant tracking and resume evaluation.
+
+🔗 [View Repository](https://github.com/ravicharan1819/resume-analyzer-ats)
+
+### 8. 🎬 Movie Recommendation System
+
+**Python | Pandas | Scikit-learn | Cosine Similarity**
+
+- Built a content-based movie recommendation system using movie metadata and similarity-based recommendations.
+
+🔗 [View Repository](https://github.com/ravicharan1819/ML-Movie-Recommender)
+
+### 9. 📩 Spam Message Classifier
+
+**Python | NLP | Machine Learning**
+
+- Developed a machine learning-based text classification system to identify spam messages.
+
+🔗 [View Repository](https://github.com/ravicharan1819/Spam-message-classifier)
+
+### 10. 🛒 E-commerce Sales Analysis
+
+**SQL | PostgreSQL | Python | Power BI**
+
+- Performed e-commerce sales and customer shopping behavior analysis.
+- Used SQL and data analytics to extract meaningful insights from sales data.
+- Analyzed customer purchasing patterns and business performance.
+
+🔗 [View Repository](https://github.com/ravicharan1819/E-commerce-Sales-Analysis-SQL)
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Generative AI and LLM Applications
+- 🔗 LangChain and LangGraph
+- 📄 Retrieval-Augmented Generation (RAG)
+- 🗄️ Vector Databases
+- 🔎 Semantic Search
+- 🧠 AI Agents
+- 💬 Advanced NLP
+
+---
+
+## 🎓 Education
+
+**Indian Institute of Technology, Delhi**
+
+B.Tech in Textile Technology | 2022–2027
+
+📍 New Delhi, India
+
+---
+
+## 🏆 Leadership Experience
+
+- **Athletics Vice-Captain, IIT Delhi:** Co-led the institute InterIIT athletics team of 40+ athletes across 18 events.
+- **Infrastructure Coordinator, Tryst'25, IIT Delhi:** Managed infrastructure planning and logistics across 100+ events.
+- **Event Coordinator, BeCon'25, EDC IIT Delhi:** Coordinated entrepreneurship events, participant engagement, and event logistics.
+
+---
+
+## 🤝 Connect With Me
+
+- 💻 **GitHub:** [ravicharan1819](https://github.com/ravicharan1819)
+- 🔗 **LinkedIn:** [Ravi Charan](https://www.linkedin.com/in/ravi-charan-yerram-669691319/)
+- 📧 **Email:** [ravicharanyerram@gmail.com](mailto:ravicharanyerram@gmail.com)
+
+---
+
+⭐ *Always learning, building, and exploring the world of Artificial Intelligence.*
